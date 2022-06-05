@@ -1,0 +1,8 @@
+# data and log
+data
+runs
+wandb
+*.log
+
+# exp dir
+exp
